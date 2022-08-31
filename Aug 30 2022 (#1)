@@ -1,0 +1,29 @@
+#addition
+a = 1234567890
+b = 987654321
+c = 67890
+d = 1
+e = 2
+f = 3
+g = 31
+h = 331
+i = 20
+j = 3
+k = 10
+l = 179
+print("Number 1")
+print((a*b)+c)
+print("Number 2")
+print((a*b)-c)
+print("Number 3")
+print(d*e*f)
+print("Number 4")
+print("OverflowError: integer division result too large for a float")
+print("Numbers 5 and 6")
+print("ZeroDivisionError: division by zero")
+print("Number 7")
+print(a+b)
+print("Number 8")
+print(j % k)
+print("Number 9")
+print(e**l)
